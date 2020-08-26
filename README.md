@@ -1,12 +1,12 @@
 # PPMS
 Petrol Pump Management System By Shahbaz Shabbir
 
-# UPDATES
+##UPDATES
 
   27-July-2020
     Add Collem 'DDShahbazPPMS' in product table with nchar 255
     
-# Views
+##Views
 ###Replace ProductViewForSales (if error occured on product add button in sale invoice) with following.
 
 
