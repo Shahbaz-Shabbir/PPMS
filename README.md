@@ -16,6 +16,13 @@ Petrol Pump Management System By Shahbaz Shabbir
     Add Collem 'DDPPMSDB' in product table with nchar 255
     Newly Database Updated
 
+    #  UPDATES YEARLY CLOSING    
+
+
+  31-December-2023 to 31-December-24
+    Add Collem 'PPMSDB24' in product table with nchar 255
+    Newly Database Updated
+
     
 
                                Shahbaz Shabbir (Computer Software Engineer)
